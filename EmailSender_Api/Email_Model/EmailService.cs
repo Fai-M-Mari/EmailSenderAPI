@@ -1,9 +1,9 @@
-﻿using System;
-using System.Net;
-using System.Net.Mail;
-using ClosedXML.Excel;
-using System.IO;
+﻿using System.Net.Mail;
 using System.Text;
+using System.Net;
+using System.IO;
+using System;
+using ClosedXML.Excel;
 
 namespace EmailSender_Api.Email_Model
 {
